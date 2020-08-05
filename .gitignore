@@ -1,0 +1,12 @@
+elk/elasticsearch/data
+elk/elasticsearch/logs
+mysql3308/log_3308
+mysql3308/data_3308
+mysql3308/mysqld_3308.log
+nginx/logs
+mysql/log
+jenkins/data
+redis/data
+nexus3/nexus-data
+.idea/workspace.xml
+mysql3308/log_3308/general.log

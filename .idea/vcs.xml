@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/elk" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/k8s-docker-for-mac" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/nacos-docker" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/rabbitMQ/rocketmq-docker" vcs="Git" />
+  </component>
+</project>
